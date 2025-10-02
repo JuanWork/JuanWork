@@ -12,26 +12,8 @@
 |-------------|-------------|
 |  Texto1     |  Texto2     |
 |  Texto3     |  Texto4     |
-        
-          
-          
-            
-          
-
-- Lista 1
-- Lista 2
-  - Sublista
-1. Lista 1
-2. Lista 2
-   1. Sublista
-[imagem](href)
-![imagem]()
-`codego`
-```codego de bloco```
-> Citações
-
-- [X] tarefa 1
-- [ ] tarefa 2
+>Não exite nada de novo debaixo do sol.
+>O trabalho pode ser duro e muitas das vezes sem nenhum seguinificado para os outro, mas se você não contínuar, nunca seberá que no fim do Arco Iris existe um pote de outro que é só seu.
 
 
 
