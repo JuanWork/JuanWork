@@ -7,16 +7,13 @@
 
 ## Minhas Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px"/>
-          
+--------------------------------------------------------          
           
           
           
             
           
 
-*Italico* ou _ítalico_
-**Negrito** ou __negrito__
-___negrito e ítalico___
 - Lista 1
 - Lista 2
   - Sublista
@@ -37,8 +34,5 @@ ___negrito e ítalico___
 - [X] tarefa 1
 - [ ] tarefa 2
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working with logical reasoning.
-- 🌱 I’m currently learning  English.
 
