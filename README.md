@@ -8,7 +8,7 @@
 ## Minhas Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="100px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="100"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="100px"/>
 --------------------------------------------------------          
-| Cabeçalho 1 | Cabeçalho 2 |
+| Cursos| Certificados |
 |-------------|-------------|
 |  Texto1     |  Texto2     |
 |  Texto3     |  Texto4     |
