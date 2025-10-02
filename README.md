@@ -13,6 +13,23 @@ ___negrito e ítalico___
 - Lista 1
 - Lista 2
   - Sublista
+1. Lista 1
+2. Lista 2
+   1. Sublista
+[imagem](href)
+![imagem]()
+`codego`
+```codego de bloco```
+> Citações
+----------------------------------
+| Cabeçalho 1 | Cabeçalho 2 |
+|-------------|-------------|
+|  Texto1     |  Texto2     |
+|  Texto3     |  Texto4     |
+
+- [X] tarefa 1
+- [ ] tarefa 2
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working with logical reasoning.
