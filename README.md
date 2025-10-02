@@ -14,7 +14,8 @@
 ![Elefante](https://github.com/user-attachments/assets/1e861d02-d8a6-4cba-99e9-164a360924f9)
 
  :sun_with_face: ___My Linkedin___<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:/www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-oliveira-925532257/)
+## Portfolio:
 
  <div style="flex-basis: 48%;">
     <h3>Programming Languages</h3>
