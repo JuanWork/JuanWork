@@ -3,7 +3,11 @@
 ![Elefante](https://github.com/user-attachments/assets/1e861d02-d8a6-4cba-99e9-164a360924f9)
 
  :sun_with_face: ___Hello, I am Juan___
-[Acesse o meu Linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
+[Acesse o meu Linkedin](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+
+## Minhas Tecnologias
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width=100px/>
+          
 
 *Italico* ou _ítalico_
 **Negrito** ou __negrito__
