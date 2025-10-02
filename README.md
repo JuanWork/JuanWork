@@ -7,7 +7,7 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 <p>I am Juan, and I am from Brazil. My favorite hobbies are: listening to music, learning new software skills and developing in Java and JavaScript. I like to read books about IT and learning about the real world. I like to rum with my wife on the road. My dream is one day to talk English with people and to have a conversation with my daughter en English. The best days of my life were when my daughter had my first grandson and when I married my wonderful wife. Her name is Valdenusia. God bless her forever.</p>
-<p>Sure. His name is Nhoa. He is a little bay, but he is already three years old. He is smart and handsome. He has blue eyes and blond hair. I always chat with him. I don’t live close to them, but technology makes communication easier for us. I have been married for 30 years. She likes running in green spaces, but in my city we can only run on the road very early.</p>
+<p>Sure. His name is Nhoa. He is a little baby, but he is already three years old. He is smart and handsome. He has blue eyes and blond hair. I always chat with him. I don’t live close to them, but technology makes communication easier for us. I have been married for 30 years. She likes running in green spaces, but in my city we can only run on the road very early.</p>
 
   - ⚡<p> My grandson is three years old. We use video calls like WhatsApp. My wife and I always go to the movies, shopping, and on motorcycle rides, and at night we have a good chat about the new plans for our life.
 My specific place in Africa is South Africa, because of its history, strong nature, and people. I want to learn full-stack development and Java because I want to switch jobs and give a better life for my family.</p>
