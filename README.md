@@ -13,7 +13,7 @@
    
 ![Elefante](https://github.com/user-attachments/assets/1e861d02-d8a6-4cba-99e9-164a360924f9)
 
- :sun_with_face: ___My Linkedin___<br/>
+ :sun_with_face: ___Sing in my Linkedin___<br/>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-instrutor-motorista/)
 ## Portfolio:
 
@@ -32,13 +32,13 @@
 ![JuanWork GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanWork&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWork&size_weight=0.5&count_weight=0.5&theme=dark&show_icons=true)
 
-| Cursos| Certificados |
+| Courses| Certified |
 |-------------|-------------|
-|  Texto1     |  Texto2     |
+|    text01  |  Text02     |
 |  Texto3     |  Texto4     |
 
->Não exite nada de novo debaixo do sol.<br/>
->O trabalho pode ser duro e muitas das vezes sem nenhum seguinificado para os outros, mas se você não contínuar, nunca seberá que no fim do Arco Iris existe um pote de Ouro que é só seu.
+>There is nothing new under the sun.<br/>
+>The work may be hard and often without any meaning for others, but if you don't keep at it, you'll never know that at the end of the rainbow lies a pot of gold that is yours alone.
 
 
 
