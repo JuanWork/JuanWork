@@ -1,12 +1,9 @@
-<center><h2>Seja Bem-Vindos ao meu novo playgound</h2>
+<center><h2>Welcome for my Github, my new playground</h2>
 
-<!-- Cabeçalhos -->
-# Título 1
-## Título 2
-### Título 3
-#### Título 4
-##### Título 5
-###### Título 6
+![Elefante](https://github.com/user-attachments/assets/1e861d02-d8a6-4cba-99e9-164a360924f9)
+
+ :sun_with_face: ___Hello, I am Juan___ 
+
 *Italico* ou _ítalico_
 **Negrito** ou __negrito__
 ___negrito e ítalico___
