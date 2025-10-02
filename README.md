@@ -11,7 +11,7 @@
 </div>  
 
 ![Elefante](https://github.com/user-attachments/assets/1e861d02-d8a6-4cba-99e9-164a360924f9)
-:sun_with_face: ___Sing in my Linkedin___<br
+:sun_with_face: ___Sing in my Linkedin___<br/>
                                            
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-instrutor-motorista/)
  
@@ -28,7 +28,7 @@
     <img align="center" alt="github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gihub/github-original.svg">
     <img align="center" alt="vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">
      <img align="center" alt="markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
-  </div><br
+  </div><br/>
           
 ![JuanWork GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanWork&theme=dark&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWork&size_weight=0.5&count_weight=0.5&theme=dark&show_icons=true)
