@@ -34,9 +34,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanWork&size_weight=0.5&count_weight=0.5&theme=dark&show_icons=true)
 
 | Courses| Certified |
-|-------------|-------------|
-|    text01  |  Text02     |
-|  Texto3     |  Texto4     |
+|--------|-----------|
+|   text |  Text     |
+|  text  |  text     |
 
 >There is nothing new under the sun.<br/>
 >The work may be hard and often without any meaning for others, but if you don't keep at it, you'll never know that at the end of the rainbow lies a pot of gold that is yours alone.
