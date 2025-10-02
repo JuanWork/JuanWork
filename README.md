@@ -26,7 +26,7 @@
 |  Texto1     |  Texto2     |
 |  Texto3     |  Texto4     |
 >Não exite nada de novo debaixo do sol.
->O trabalho pode ser duro e muitas das vezes sem nenhum seguinificado para os outro, mas se você não contínuar, nunca seberá que no fim do Arco Iris existe um pote de outro que é só seu.
+>O trabalho pode ser duro e muitas das vezes sem nenhum seguinificado para os outros, mas se você não contínuar, nunca seberá que no fim do Arco Iris existe um pote de Ouro que é só seu.
 
 
 
